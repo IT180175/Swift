@@ -1,8 +1,8 @@
-//
+
 //  SceneDelegate.swift
-//  numberGuess
+//  Hello world
 //
-//  Created by Bikic Ana on 09.11.21.
+//  Created by Pouget Marcel on 21.09.21.
 //
 
 import UIKit
@@ -49,4 +49,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 
 }
+
 
